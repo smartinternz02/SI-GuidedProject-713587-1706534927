@@ -10,15 +10,16 @@ Enter your login credentials then Login inputs are analyzed and verified as per 
 
 Once the Login credentials are validated, the user will enter the amazon home page and the end user can select an item from the category and input a search item and click on the magnifier button.
 
-To accomplish this, we have to complete all the activities listed below:
 
-Define problem/ Problem understanding
+To accomplish this, I completed all the activities listed below:
+
+1. Define problem/ Problem understanding
 
 Specify the business problem
 
 Business impact 
 
- Test case Preparation
+2.Test case Preparation
 
 Analyze requirements
 
@@ -28,25 +29,23 @@ Preparation of Test cases
 
 Test data preparation (in the form of Validation Table) as per baseline document
 
-Script /Test case Execution under test suite and test suite collection level 
 
-Handling  and Validating buttons
+3.Script /Test case Execution under test suite and test suite collection level 
 
-Test listeners
+4.Handling  and Validating buttons
 
-Build delivery
+5.Test listeners
+
+6.Build delivery
 
 Integrating katalon to git and jenkins
 
-Cross-browser testing using TestCloud
+7.Cross-browser testing using TestCloud
 
-Generating and Analyzing report and Sending report through email
+8.Generating and Analyzing report and Sending report through email
 
-Prior Knowledge:
 
- You must  have prior knowledge of following topics to complete this project.
-
-Software testing concepts
+1.Software testing concepts
 
 STLC	
 
@@ -54,7 +53,8 @@ Manual Testing
 
 Automation Testing
 
-Software Automation process and tools 
+
+2.Software Automation process and tools 
 
 Automation testing process
 
